@@ -1,6 +1,8 @@
 # datafest2020
 Team  Name: The Monty Hollaback  Girls
-Team Leader and Main Contributor: Julia  Wood
+
+Team Leader and Coder: Julia  Wood
+
 Team Members: Julia Wood, Tanmay Shankar, Jonah Wiener-Brodkey
 
 Jupyter Notebook Python exploratory data analysis and Tableau Public Data Visualizations.  
