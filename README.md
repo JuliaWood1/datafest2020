@@ -11,4 +11,4 @@ https://github.com/JuliaWood1/datafest2020
 My Tableau Public Profile 
 https://public.tableau.com/profile/julia2053#!/
 
-Look at the Jupyter Notebook,  it has EVERYTHING. 
+Look at the Jupyter Notebook,  it has EVERYTHING and links to visualizations! 
